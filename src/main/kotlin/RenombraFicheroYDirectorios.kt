@@ -13,4 +13,4 @@ object E05RenombraFicheroYDirectorios {
         res = origenDoc.renameTo(destinoDoc) //renombra archivo
         println("Se ha movido el documento? $res")
     }
-} //renameTo: Sirve para renombrar
+} //renameTo: Sirve para cambiar el nombre y ubicación de una carpeta o archivo
